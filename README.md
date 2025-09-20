@@ -40,7 +40,7 @@
 ### 🏢 Study Experience
 
 
-- [Songzi Experimental Primary School](https://lusun.com/) &emsp; 📌 2019-09-01 —— 2022-06-30
+- [Songzi Experimental Primary School](https://baike.baidu.com/item/%E6%9D%BE%E6%BB%8B%E5%B8%82%E5%AE%9E%E9%AA%8C%E5%88%9D%E7%BA%A7%E4%B8%AD%E5%AD%A6/4721594) &emsp; 📌 2019-09-01 —— 2022-06-30
 
 
 <img align="right" width="88"  src="https://github.com/user-attachments/assets/c93083ad-efaa-433e-8ddc-44ed065f3116" />
