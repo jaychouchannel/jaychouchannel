@@ -2,7 +2,8 @@
 
 <div align="center" >
 <a href="https://img-blog.csdnimg.cn/2019122617442217.gif">
-  <img align="center"  alt="GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="240"/>
+  <img align="center"  alt="GIF" src="https://github.com/user-attachments/assets/6420fdc3-4ac1-4b8c-9490-88f7b472dfea" width="240"/>
+
 </a>
 </div>
 
