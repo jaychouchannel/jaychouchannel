@@ -2,8 +2,9 @@
 
 <div align="center" >
 <br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+Mono+TC&size=25&pause=5&color=051116&width=435&lines=%E5%B0%8F%E7%B4%99%E5%82%98+%E9%81%AE%E9%9B%A8%E4%B9%9F%E9%81%AE%E6%9C%88%E5%85%89" alt="Typing SVG" /></a>
 
-![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
+![developer-8764524](https://github.com/user-attachments/assets/e13bf2f3-e778-460c-a9a4-6a6b7c85a655)
 
 <br/>
 </div>
@@ -56,6 +57,7 @@
 <img align="right" width="88" src="https://github.com/user-attachments/assets/a73dd5fd-54db-4d99-a2ee-3e901662f8c0" />
 
 - [Nanchang University](https://www.ncu.edu.cn/) &emsp; 📌 2025-09-01 —— 2029-06-30
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaychouchannel)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
