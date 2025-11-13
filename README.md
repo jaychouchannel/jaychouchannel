@@ -4,7 +4,7 @@
 <br/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+Mono+TC&size=25&pause=5&color=051116&width=435&lines=%E5%B0%8F%E7%B4%99%E5%82%98+%E9%81%AE%E9%9B%A8%E4%B9%9F%E9%81%AE%E6%9C%88%E5%85%89" alt="Typing SVG" /></a>
 
-![developer-8764524_1920](https://github.com/user-attachments/assets/ffd2f32f-9451-4a49-a122-dfbe45d17ac3)
+
 
 
 <br/>
