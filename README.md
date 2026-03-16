@@ -55,7 +55,6 @@
   - operating post：Web Front-End Developer
   - work test：Some unimportant groceries
 
-<img align="right" width="88" src="https://github.com/user-attachments/assets/a73dd5fd-54db-4d99-a2ee-3e901662f8c0" />
 
 
 
