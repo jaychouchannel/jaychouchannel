@@ -57,8 +57,7 @@
 
 <img align="right" width="88" src="https://github.com/user-attachments/assets/a73dd5fd-54db-4d99-a2ee-3e901662f8c0" />
 
-- [Nanchang University](https://www.ncu.edu.cn/) &emsp; 📌 2025-09-01 —— 2029-06-30
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaychouchannel)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
