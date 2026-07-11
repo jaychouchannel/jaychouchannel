@@ -16,7 +16,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
 <p>&emsp;&emsp;This is the homepage of JaychooChannel. Here you can obtain programming knowledge. Of course, you can also listen to my gossip.</p>
-<p>&emsp;&emsp;Microsoft E5 Developer Program
+<p>&emsp;&emsp;Microsoft E3 Developer Program
 <p>&emsp;&emsp;NCU INN STACK members</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
