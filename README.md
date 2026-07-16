@@ -13,7 +13,6 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
 <p>&emsp;&emsp;This is the homepage of JaychooChannel. Here you can obtain programming knowledge. Of course, you can also listen to my gossip.</p>
 <p>&emsp;&emsp;Microsoft E3 Developer Program
@@ -23,21 +22,6 @@
 </td></tr>
 
 <tr><td>
-
-### 🏢 Study Experience
-
-
-- [Songzi Experimental Primary School](https://baike.baidu.com/item/%E6%9D%BE%E6%BB%8B%E5%B8%82%E5%AE%9E%E9%AA%8C%E5%88%9D%E7%BA%A7%E4%B8%AD%E5%AD%A6/4721594) &emsp; 📌 2019-09-01 —— 2022-06-30
-
-
-<img align="right" width="88"  src="https://github.com/user-attachments/assets/c93083ad-efaa-433e-8ddc-44ed065f3116" />
-
-
-
-- [No. 1 Affiliated Middle School of Central China Normal University](https://www.hzsdyfz.com.cn/about.html) &emsp; 📌 2022-09-01 —— 2025-06-7-07
-  - operating post：Web Front-End Developer
-  - work test：Some unimportant groceries
-
 
 
 
@@ -115,11 +99,7 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 </div>
 
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
 
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
-</div>
 
   
 
